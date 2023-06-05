@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/MLOps/asi_titanic/mlruns/0/0a5f42e0a4a64e52b72f2f653ca21ae5/artifacts
+end_time: 1685968276634
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0a5f42e0a4a64e52b72f2f653ca21ae5
+run_name: 2023-06-05T12.31.13.059Z
+run_uuid: 0a5f42e0a4a64e52b72f2f653ca21ae5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685968276329
+status: 3
+tags: []
+user_id: Jasiek

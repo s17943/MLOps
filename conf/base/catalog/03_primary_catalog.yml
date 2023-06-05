@@ -1,0 +1,3 @@
+prm_spine:
+  type: pickle.PickleDataSet
+  filepath: data/03_primary/prm_spine.pickle

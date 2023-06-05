@@ -1,0 +1,3 @@
+best_estimator:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/best_estimator.pickle

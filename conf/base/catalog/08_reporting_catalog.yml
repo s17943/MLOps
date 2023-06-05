@@ -1,0 +1,6 @@
+shap_plot:
+  type: matplotlib.MatplotlibWriter
+  save_args:
+    bbox_inches: tight
+    format: png
+  filepath: data/08_reporting/shap_plot.png

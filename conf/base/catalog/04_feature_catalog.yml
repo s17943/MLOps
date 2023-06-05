@@ -1,0 +1,11 @@
+ftr_family_size:
+  type: pickle.PickleDataSet
+  filepath: data/04_feature/ftr_family_size.pickle
+
+ftr_title:
+  type: pickle.PickleDataSet
+  filepath: data/04_feature/ftr_title.pickle
+
+ftr_others:
+  type: pickle.PickleDataSet
+  filepath: data/04_feature/ftr_others.pickle
